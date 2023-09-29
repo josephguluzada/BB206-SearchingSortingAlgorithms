@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\bin\Debug\net6.0\BB206SearchingSortingAlgorithms.exe
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\bin\Debug\net6.0\BB206SearchingSortingAlgorithms.deps.json
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\bin\Debug\net6.0\BB206SearchingSortingAlgorithms.runtimeconfig.json
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\bin\Debug\net6.0\BB206SearchingSortingAlgorithms.dll
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\bin\Debug\net6.0\BB206SearchingSortingAlgorithms.pdb
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.AssemblyInfo.cs
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.dll
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\refint\BB206SearchingSortingAlgorithms.dll
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.pdb
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\BB206SearchingSortingAlgorithms.genruntimeconfig.cache
+C:\Users\asus\Desktop\BB206SearchingSortingAlgorithms\BB206SearchingSortingAlgorithms\obj\Debug\net6.0\ref\BB206SearchingSortingAlgorithms.dll
